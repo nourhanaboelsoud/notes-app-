@@ -1,3 +1,3 @@
 # flutter_application_21
 
-A new Flutter project.
+A new Flutter project using SQFLite.
